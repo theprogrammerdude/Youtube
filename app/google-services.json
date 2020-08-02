@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1052392347013",
+    "firebase_url": "https://fir-cdf2b.firebaseio.com",
+    "project_id": "fir-cdf2b",
+    "storage_bucket": "fir-cdf2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052392347013:android:a439c664d241b93677a0ec",
+        "android_client_info": {
+          "package_name": "com.appx.youtube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052392347013-cm2hc91kdfuchal12spv6kqfj1kc4qdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo9GQy2H6_tk32MMWcljuWiEJe6mb99rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052392347013-cm2hc91kdfuchal12spv6kqfj1kc4qdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
